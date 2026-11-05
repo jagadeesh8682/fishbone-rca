@@ -4,10 +4,10 @@
   "version": "1.0.0",
   "author": {
     "name": "Jagadeesh",
-    "url": "https://github.com/YOUR_GITHUB_USERNAME"
+    "url": "https://github.com/jagadeesh8682"
   },
-  "homepage": "https://github.com/YOUR_GITHUB_USERNAME/fishbone-rca",
-  "repository": "https://github.com/YOUR_GITHUB_USERNAME/fishbone-rca",
+  "homepage": "https://github.com/jagadeesh8682/fishbone-rca",
+  "repository": "https://github.com/jagadeesh8682/fishbone-rca",
   "license": "MIT",
   "keywords": ["rca", "root-cause-analysis", "fishbone", "ishikawa", "debugging", "5-whys", "postmortem", "incident"]
 }

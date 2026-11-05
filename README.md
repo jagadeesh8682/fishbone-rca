@@ -34,21 +34,21 @@ Crashes · logic bugs · build failures (Gradle, CocoaPods, pub, npm) · failing
 ### Claude Code (plugin marketplace)
 
 ```
-/plugin marketplace add YOUR_GITHUB_USERNAME/fishbone-rca
+/plugin marketplace add jagadeesh8682/fishbone-rca
 /plugin install fishbone-rca@jagadeesh-skills
 ```
 
 ### Claude Code (manual)
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/fishbone-rca.git
+git clone https://github.com/jagadeesh8682/fishbone-rca.git
 mkdir -p ~/.claude/skills
 cp -r fishbone-rca/plugins/fishbone-rca/skills/fishbone-rca ~/.claude/skills/
 ```
 
 ### Claude.ai / Claude desktop app
 
-Download `fishbone-rca.skill` from the [latest release](https://github.com/YOUR_GITHUB_USERNAME/fishbone-rca/releases/latest) and upload it in the Skills section of Claude's settings.
+Download `fishbone-rca.skill` from the [latest release](https://github.com/jagadeesh8682/fishbone-rca/releases/latest) and upload it in the Skills section of Claude's settings.
 
 ## Usage
 
@@ -79,7 +79,7 @@ Contributions are welcome, especially new playbooks (Go, Rust, .NET, databases, 
 
 ## Author
 
-Built by **Jagadeesh** · [LinkedIn](https://www.linkedin.com/in/jagadeesh8682/) · [GitHub](https://github.com/YOUR_GITHUB_USERNAME)
+Built by **Jagadeesh** · [LinkedIn](https://www.linkedin.com/in/jagadeesh8682/) · [GitHub](https://github.com/jagadeesh8682)
 
 ## License
 

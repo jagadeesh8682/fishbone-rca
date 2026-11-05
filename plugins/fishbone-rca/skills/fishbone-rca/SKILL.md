@@ -4,7 +4,7 @@ description: Root cause analysis (RCA) and resolution for any software problem, 
 license: MIT
 metadata:
   author: Jagadeesh
-  repository: https://github.com/YOUR_GITHUB_USERNAME/fishbone-rca
+  repository: https://github.com/jagadeesh8682/fishbone-rca
   version: 1.0.0
 ---
 
