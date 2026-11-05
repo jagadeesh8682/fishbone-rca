@@ -1,0 +1,13 @@
+{
+  "name": "jagadeesh-skills",
+  "owner": {
+    "name": "Jagadeesh"
+  },
+  "plugins": [
+    {
+      "name": "fishbone-rca",
+      "source": "./plugins/fishbone-rca",
+      "description": "Fishbone (Ishikawa) + 5 Whys root cause analysis that finds, fixes and prevents software bugs, CI/CD failures and production incidents"
+    }
+  ]
+}

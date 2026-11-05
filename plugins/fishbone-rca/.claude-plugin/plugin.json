@@ -1,0 +1,13 @@
+{
+  "name": "fishbone-rca",
+  "description": "Fishbone (Ishikawa) + 5 Whys root cause analysis that finds, fixes and prevents software bugs, CI/CD failures and production incidents",
+  "version": "1.0.0",
+  "author": {
+    "name": "Jagadeesh",
+    "url": "https://github.com/YOUR_GITHUB_USERNAME"
+  },
+  "homepage": "https://github.com/YOUR_GITHUB_USERNAME/fishbone-rca",
+  "repository": "https://github.com/YOUR_GITHUB_USERNAME/fishbone-rca",
+  "license": "MIT",
+  "keywords": ["rca", "root-cause-analysis", "fishbone", "ishikawa", "debugging", "5-whys", "postmortem", "incident"]
+}
